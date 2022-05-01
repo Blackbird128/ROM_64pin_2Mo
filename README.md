@@ -1,3 +1,3 @@
 # ROM64_2mo
 
-Test
+Rom simm for vintage Macintosh 
